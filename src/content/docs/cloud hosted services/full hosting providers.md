@@ -8,7 +8,7 @@ title: Full Hosting Providers [WIP]
 Cloud hosted services vary from free web-based tools, to SRTLA/RTMP relays, to full OBS servers. 
 
 ## A Comparison Of All Full Hosting Providers
-I define "Full Hosting" as services that provide disconnect protection with at least 720p60 RTMP output to your platform of choice.  Credit to TobbyTravel who first created the now deprecated comparison table which inspired this one.
+I define "Full Hosting" as services that provide disconnect protection with at least 720p30 RTMP output to your platform of choice.  Credit to TobbyTravel who first created the now deprecated comparison table which inspired this one.
 
 For the sake of fairness, the info in this comparison grid is limited to only that which is publically available *before* payment. If a provider fails to inform users of what they are buying, there is no guarantee that they will continue to deliver said feature. Furthermore, only features included with the base price of each service are shown. For example if a service provides additional ingests with an addon fee, those additional ingests would be ommited from this comparison.
 
