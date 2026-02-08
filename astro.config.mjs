@@ -15,7 +15,7 @@ export default defineConfig({
                   attrs: { src: '/scripts/table-logic.js', defer: true },
                 },
               ],
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/9philip/irlstreaminginfo' }],
 			sidebar: [
                 {
                     label: 'Cloud Hosted Services',
