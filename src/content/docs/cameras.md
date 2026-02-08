@@ -14,7 +14,8 @@ title: Cameras
 - DJI Osmo Pocket 3
 - Sony FDR-X3000 / AS-300
 - Canon Powershot V1
-- Interchangeable Lens Mirrorless Cameras (specific models - see below)
+- Mirrorless Interchangeable Lens Cameras (specific models - see below)
+- Camcorders
 
 ## Which phones work well?
 All modern iPhones work great as IRL Streaming cameras thanks to the livestreaming app Moblin. Specifically the iPhone 17 Pro/Max perform incredibly for IRL Streaming, not only because of the excellent cameras but above all because of the excellent built in cooling. The aluminium unibody design and internal vapour chamber prevent the risk of overheating in any normal situation. Older models may face overheating issues if in direct sunlight, using more of Moblin's features, or streaming at higher resolutions such as 4K.
