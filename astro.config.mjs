@@ -17,14 +17,15 @@ export default defineConfig({
               ],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/9philip/irlstreaminginfo' }],
 			sidebar: [
-                {
-                    label: 'Cloud Hosted Services',
-                    autogenerate: { directory: 'cloud hosted services' },
-                },
 				{
                     label: 'Glossary',
                     autogenerate: { directory: 'glossary' },
                 },
+                {
+                    label: 'Cloud Hosted Services',
+                    autogenerate: { directory: 'cloud hosted services' },
+                },
+
 			],
 		}),
 	],
