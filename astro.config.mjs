@@ -25,6 +25,7 @@ export default defineConfig({
                     label: 'Cloud Hosted Services',
                     autogenerate: { directory: 'cloud hosted services' },
                 },
+				{ label: 'Cameras', slug: 'cameras' },
 
 			],
 		}),
