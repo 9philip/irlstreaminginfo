@@ -1,4 +1,6 @@
-# Protocols
+---
+title: Protocols
+---
 ## What is a Protocol?
 You can think of a protocol as simply a set of rules that determines how data is transmitted between devices. In all the wireless networks we are concerned with for the purpose of livestreaming, data is split up into packets. By following a set protocol, both the sender and receiver of these data packets can understand how each packet is formatted, and how to correctly rearrange the packets. 
 
