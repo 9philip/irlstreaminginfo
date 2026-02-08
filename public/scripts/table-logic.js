@@ -15,7 +15,6 @@ window.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('td:nth-child(n+4)').forEach(cell => {
     const text = cell.innerText.trim();
     const colIdx = cell.cellIndex;
-
     const bad = ['None', '0', 'RTMP', 'N/A', '720p30', '720p60'];
     const limited = ['1080p30', 'Basic', '1'];
     const goodKeywords = ['SRTLA', '1080p60', 'Advanced', 'Unlimited'];
