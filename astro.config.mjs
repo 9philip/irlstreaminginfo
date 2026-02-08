@@ -4,11 +4,18 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-            customCss: [
-            	'./src/styles/custom.css',
-				],
+            
 			title: 'IRL Streaming Info',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/9philip/irlstreaminginfo' }],
+            customCss: [
+                    './src/styles/custom.css',
+                  ],
+            head: [
+                {
+                  tag: 'script',
+                  attrs: { src: '/scripts/table-logic.js', defer: true },
+                },
+              ],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com' }],
 			sidebar: [
                 {
                     label: 'Cloud Hosted Services',
