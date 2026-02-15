@@ -1,7 +1,7 @@
 
 :root {
   --sl-content-width: 99%;
-  --sl-sidebar-width: 16rem;
+  --sl-sidebar-width: 18rem;
 }
 
 .sl-markdown-content td:nth-child(8) {
@@ -29,4 +29,5 @@ td:nth-child(3) {
   background-color: rgba(239, 68, 68, 0.05) !important;
   color: #dc2626 !important;
 }
+
 
