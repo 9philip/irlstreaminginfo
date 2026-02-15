@@ -1,4 +1,7 @@
 ---
 title: iPhone Streaming with Moblin
 ---
-https://youtu.be/SQeRPG8hokg
+<iframe  
+  src="https://youtu.be/SQeRPG8hokg"
+  allowfullscreen>
+</iframe>
