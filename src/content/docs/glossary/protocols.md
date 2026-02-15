@@ -5,7 +5,7 @@ title: Protocols
 You can think of a protocol as simply a set of rules that determines how data is transmitted between devices. In all the wireless networks we are concerned with for the purpose of livestreaming, data is split up into packets. By following a set protocol, both the sender and receiver of these data packets can understand how each packet is formatted, and how to correctly rearrange the packets. 
 
 ## What is RTMP?
-RTMP (Real-Time Messaging Protocol) is the only ingest protocol supported by Twitch and many other platforms. No matter how you set up your livestream, the last step will involve sending RTMP video to Twitch's ingest. For most people, this is done through OBS. 
+RTMP (Real-Time Messaging Protocol) is the most common ingest protocol supported by Twitch and many other platforms. No matter how you set up your livestream, the last step will usually involve sending RTMP video to your platform's ingest. For most people, this is done through OBS. 
 
 RTMP streaming guarantees packet delivery, which would usually be great for reliability but over the unstable network conditions of IRL streaming, it can cause a ‘traffic jam’ of video delay.
 
@@ -38,4 +38,6 @@ The largest disadvantage of UVC is that most digital cameras do not support UVC 
 ## What is WebRTC?
 
 ## What is HLS?
+
+## What is LRT?
 
