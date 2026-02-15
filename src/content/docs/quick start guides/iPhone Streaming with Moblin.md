@@ -1,4 +1,4 @@
 ---
 title: iPhone Streaming with Moblin
 ---
-<YouTube id="https://youtu.be/SQeRPG8hokg" />
+https://youtu.be/SQeRPG8hokg
